@@ -1,0 +1,9 @@
+
+Milestones:
+
+Removed a divide by zero
+
+
+- Stop balls from rolling along the ceiling.
+- Stop balls from stalling out.
+- When ball crosses back wall make it flash red and buzz (ball-zapper)
