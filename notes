@@ -1,9 +1,11 @@
 
 Milestones:
 
-Removed a divide by zero
+Set world gravity to zero.  Did not affect behavior
 
-
+- get delay to work in flash code for back wall
+- enforce constant speed for real.  (How?)
+- Make ball bounce off the actual wall rather than in front of the wall.
 - Stop balls from rolling along the ceiling.
 - Stop balls from stalling out.
 - When ball crosses back wall make it flash red and buzz (ball-zapper)
