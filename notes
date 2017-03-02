@@ -3,7 +3,10 @@ Milestones:
 
 Set world gravity to zero.  Did not affect behavior
 
+- factor code to break out functionality into functions where logic gets too long and drawn out.
 - enforce constant speed for real.  (How?)
+	= look for the normalize node, normalize the vector and multiply by intended velocity (rather than the divide operation).
+	= check the physics that is on the materials you are using on the surfaces.
 - Make ball bounce off the actual wall rather than in front of the wall.
 - Stop balls from rolling along the ceiling.
 - Stop balls from stalling out.
