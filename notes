@@ -5,10 +5,6 @@ Milestones:
 - factor code to break out functionality into functions where logic gets too long and drawn out.
 
 
-- Make ball bounce off the actual wall rather than in front of the wall.
+- Make ball bounce off the actual wall rather than in front of the wall in a glitchy way.
 - Stop balls from rolling along the ceiling.
-- Stop balls from stalling out (going back and forth).
-://giphy.com/gifs/1485wMdlDLG7mg enforce constant speed for real.  (How?)
-	= look for the normalize node, normalize the vector and multiply by intended velocity (rather than the divide operation). (didn't seem to do anything)
-	= check the physics that is on the materials you are using on the surfaces.
 - When ball crosses back wall make it buzz (ball-zapper)
