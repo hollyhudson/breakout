@@ -1,10 +1,24 @@
+Next commit:
+- added normalization to the return off the front wall.
+
 
 Milestones:
 
 
-- factor code to break out functionality into functions where logic gets too long and drawn out.
+- factor code to break out functionality into functions where logic gets
+too long and drawn out.
 
 
-- Make ball bounce off the actual wall rather than in front of the wall in a glitchy way.
+- Make ball bounce off the actual wall rather than in front of the wall
+in a glitchy way.
+
+	+ currently boundary wall is just an integer we're testing to
+	see if we went beyond, but it should be a wall we test to see
+	if we hit.
+
 - Stop balls from rolling along the ceiling.
+
 - When ball crosses back wall make it buzz (ball-zapper)
+
+- Have bricks destroyed dramatically with particle effects (look in the
+Learn tab of the engine)
