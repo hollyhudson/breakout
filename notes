@@ -12,9 +12,7 @@ too long and drawn out.
 - Make ball bounce off the actual wall rather than in front of the wall
 in a glitchy way.
 
-	+ currently boundary wall is just an integer we're testing to
-	see if we went beyond, but it should be a wall we test to see
-	if we hit.
+	= Need to alter collision/reverse vector code to handle new walls.  Is it reversing vectors enough or can I tweak it to prevent it from rolling along walls, floor, and ceiling?
 
 - Stop balls from rolling along the ceiling.
 
@@ -22,3 +20,6 @@ in a glitchy way.
 
 - Have bricks destroyed dramatically with particle effects (look in the
 Learn tab of the engine)
+
+Content to grab:
+
