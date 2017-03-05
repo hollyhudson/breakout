@@ -9,12 +9,8 @@ Milestones:
 too long and drawn out.
 
 
-- Make ball bounce off the actual wall rather than in front of the wall
-in a glitchy way.
-
-	= Need to alter collision/reverse vector code to handle new walls.  Is it reversing vectors enough or can I tweak it to prevent it from rolling along walls, floor, and ceiling?
-
 - Stop balls from rolling along the ceiling.
+	- maybe?
 
 - When ball crosses back wall make it buzz (ball-zapper)
 
