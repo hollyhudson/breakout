@@ -1,5 +1,3 @@
-Next commit:
-- added normalization to the return off the front wall.
 
 
 Milestones:
@@ -14,8 +12,7 @@ too long and drawn out.
 
 - When ball crosses back wall make it buzz (ball-zapper)
 
-- Have bricks destroyed dramatically with particle effects (look in the
-Learn tab of the engine)
+- Add audio to brick breaking
 
 Content to grab:
 
