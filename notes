@@ -1,12 +1,13 @@
 
+Bugs:
+
+- Level Up! text not going away.
+- Ball destroyed at end of level is confusing the bollard code.
+
 Floor material:
 M_Concrete_Tiles
 
 Milestones:
-
-
-- factor code to break out functionality into functions where logic gets
-too long and drawn out.
 
 
 - Stop balls from rolling along the ceiling.
