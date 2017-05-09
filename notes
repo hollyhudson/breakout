@@ -1,8 +1,6 @@
 
 Bugs:
 
-- Level Up! text not going away.
-- Ball destroyed at end of level is confusing the bollard code.
 
 Floor material:
 M_Concrete_Tiles
@@ -10,12 +8,17 @@ M_Concrete_Tiles
 Milestones:
 
 
-- Stop balls from rolling along the ceiling.
-	- maybe?
+Before you package:
+
+- replace paddle with model from blender
 
 - When ball crosses back wall make it buzz (ball-zapper)
 
 - Add audio to brick breaking
 
-Content to grab:
+- Organize directories and remove extraneous content
 
+Next upgrade:
+
+- Stop balls from rolling along the ceiling.
+	- maybe?
