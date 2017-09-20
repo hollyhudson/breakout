@@ -5,20 +5,30 @@ Bugs:
 Floor material:
 M_Concrete_Tiles
 
-Milestones:
+Todo:
 
+	Chaperone problem:
 
-Before you package:
+- Hardcode where the walls and blocks are
 
-- replace paddle with model from blender
-
-- When ball crosses back wall make it buzz (ball-zapper)
+	Audio:
 
 - Add audio to brick breaking
+- When ball crosses back wall make it buzz (ball-zapper)
 
-- Organize directories and remove extraneous content
 
-Next upgrade:
+	Paddle:
 
-- Stop balls from rolling along the ceiling.
-	- maybe?
+- Better paddle model
+- 3 sizes to choose from
+
+
+	Physics:
+
+- stop balls from rolling across the ceiling by creating collision volumes on the walls
+- faster return?
+
+	Data display:
+
+- calculate and report score
+- display level
