@@ -1,34 +1,4 @@
 
-Bugs:
-
-
 Floor material:
 M_Concrete_Tiles
 
-Todo:
-
-	Chaperone problem:
-
-- Hardcode where the walls and blocks are
-
-	Audio:
-
-- Add audio to brick breaking
-- When ball crosses back wall make it buzz (ball-zapper)
-
-
-	Paddle:
-
-- Better paddle model
-- 3 sizes to choose from
-
-
-	Physics:
-
-- stop balls from rolling across the ceiling by creating collision volumes on the walls
-- faster return?
-
-	Data display:
-
-- calculate and report score
-- display level
